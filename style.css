@@ -1,0 +1,39 @@
+.container {
+  max-width: 600px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.btn {
+  background: black;
+  color: white;
+  outline: none !important;
+  box-shadow: none !important;
+  text-transform: uppercase;
+}
+
+.btn:focus {
+  outline: none !important;
+}
+
+.btn:hover {
+  background: white;
+  color: black;
+}
+
+.username {
+  font-weight: 400;
+}
+
+.time {
+  font-size: 0.8rem;
+  font-weight: 200;
+}
+
+.message {
+  font-weight: 300;
+}
+
+.update-mssg {
+  text-align: center;
+  margin: 20px auto;
+}
